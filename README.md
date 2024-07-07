@@ -1,10 +1,10 @@
 # Node-Openbangbang93HUB
 Python - OpenBangBang93HUB修改版
-<br><br><br><br><br>
+<br><br>
 
 [![Status](https://img.shields.io/badge/node-v21.6.2-blue.svg)](https://nodejs.org/en/download/)
 
-<br><br><br><br><br>
+<br><br>
 
 # Init 初始化必要文件夹
 ```
