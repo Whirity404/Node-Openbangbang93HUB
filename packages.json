@@ -1,0 +1,14 @@
+{
+  "name": "Node-Openbangbang93HUB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "npm install -g live-server",
+    "setup-dir": "git clone https://github.com/Mxmilu666/bangbang93HUB",
+    "server": "npm run test",
+    "test": "live-server ./bangbang93HUB --port=8181 --host=localhost"
+  },
+  "author": "Whirity404",
+  "license": "ISC"
+}
